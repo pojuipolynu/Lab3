@@ -18,13 +18,6 @@ a {
     color: inherit;
 }
 
-.home {
-    height: 4510px;
-    padding-top: 0.9%;
-}
-
-
-
 .catbutt {
     display: flex;
     justify-content: space-around;
