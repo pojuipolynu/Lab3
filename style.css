@@ -24,11 +24,6 @@ a>p {
     margin: 0;
 }
 
-.home {
-    height: 5628px;
-    padding-top: 0.9%;
-}
-
 .center {
     display: flex;
     flex-direction: row;
